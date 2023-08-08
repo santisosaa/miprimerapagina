@@ -108,6 +108,10 @@ main {
     height: 100px;
   }
 
+  .greeting {
+    text-align: center;
+  }
+
   @media (max-width: 768px) {
     .column {
       flex: 100%;
@@ -159,5 +163,7 @@ main {
       max-width: 90%;
     }
   }
+
+  
 
   
